@@ -10,3 +10,6 @@ html[lang="zh-CN"] body{font-family:Arial,"PingFang SC","Microsoft YaHei",sans-s
 html[lang="zh-CN"] h1,html[lang="zh-CN"] h2{font-family:Georgia,"Noto Serif CJK SC","Songti SC",SimSun,serif;letter-spacing:.015em}
 html[lang="zh-CN"] .intro{line-height:1.9}
 @media(max-width:760px){.nav-links{gap:.85rem}.language-switch{padding-left:.85rem}.education-detail{margin-top:.45rem}.school-emblem,.school-emblem img{width:52px;height:52px}.school-emblem{flex-basis:52px}}
+
+/* Research philosophy */
+.philosophy-content{min-width:0}.philosophy-content p{margin:0 0 1.15rem;line-height:1.9}.philosophy-subtitle{font-weight:600}.research-stage{margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--line)}.research-stage h3{font-size:1.08rem;line-height:1.6;letter-spacing:0;text-transform:none;margin-bottom:1rem}.brand{flex-shrink:0}@media(max-width:1000px){nav{flex-wrap:wrap;gap:.8rem}.nav-links{gap:.9rem}}
